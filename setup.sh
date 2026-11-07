@@ -102,7 +102,7 @@ PKGS=(
   python3-jinja2 python3-pexpect python3-pip python3-subunit socat texinfo
   unzip wget xterm xz-utils zstd
   # needed by this script itself
-  curl ca-certificates
+  curl ca-certificates unzip git-lfs
 )
 
 # Release-dependent packages.
